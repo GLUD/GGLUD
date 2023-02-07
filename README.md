@@ -1,9 +1,3 @@
----
-layout: home
-title: GGLUD
-permalink: /
----
-
 # 👻  **GGLUD**
 
 <img src="https://www.udistrital.edu.co/themes/custom/versh/images/default/preloader.png" width="192px" height="192px" align="right"/>
