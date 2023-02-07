@@ -13,7 +13,7 @@ permalink: /
 
 
 Repositorio para almacenar los desarrollos realizados en el proyecto GGLUD del grupo GNU/linux de la Universidad Distrital.
-<>
+
 
 ## Contributors:
  - [Juan Felipe Rodríguez][1]
